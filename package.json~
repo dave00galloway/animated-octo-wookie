@@ -4,7 +4,7 @@
   "description": "result of following npm install -g how-to-npm from http://nodeschool.io/#workshoppers",
   "main": "index.js",
   "scripts": {
-    "test":"node test.js"
+    "test":"echo \"Error: no test specified\" && exit 1" 
   },
   "repository": {
     "type": "git",

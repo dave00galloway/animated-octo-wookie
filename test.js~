@@ -1,0 +1,7 @@
+var assert = require('assert');
+function test()
+{
+	assert.equal(true,false,'true should equal true');
+}
+
+test();
