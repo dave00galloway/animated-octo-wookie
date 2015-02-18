@@ -1,6 +1,6 @@
 {
   "name": "how-to-npm-dave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "result of following npm install -g how-to-npm from http://nodeschool.io/#workshoppers",
   "main": "index.js",
   "scripts": {
