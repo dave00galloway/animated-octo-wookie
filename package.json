@@ -1,0 +1,22 @@
+{
+  "name": "how-to-npm-dave",
+  "version": "1.0.0",
+  "description": "result of following npm install -g how-to-npm from http://nodeschool.io/#workshoppers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dave00galloway/animated-octo-wookie.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "dave00galloway & Isaac Z. Schlueter and Contributors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dave00galloway/animated-octo-wookie/issues"
+  },
+  "homepage": "https://github.com/dave00galloway/animated-octo-wookie"
+}
